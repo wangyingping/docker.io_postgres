@@ -1,1 +1,1 @@
-FROM docker.io/library/postgres:10.14
+FROM docker.io/library/postgres:10.15
